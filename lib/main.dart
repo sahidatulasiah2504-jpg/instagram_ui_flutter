@@ -209,7 +209,7 @@ class InstagramPage extends StatelessWidget {
                       Icon(Icons.mode_comment_outlined),
                       SizedBox(width: 5),
                       Text(
-                        "40",
+                        "60",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                         ),
