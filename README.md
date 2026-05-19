@@ -45,5 +45,5 @@ Beberapa kesulitan yang saya alami selama mengerjakan tugas ini adalah:
 Cara mengatasinya:
 - Membaca kembali materi kuliah dan contoh kode
 - Mencoba menjalankan kode secara bertahap
-- Memperbaiki error satu per satu sampai aplikasi berhasil berjalan"# tugas_ui_flutter" 
+- Memperbaiki error satu per satu sampai aplikasi berhasil berjalan
 
