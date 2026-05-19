@@ -30,11 +30,11 @@ Tampilan dibuat menyerupai aplikasi Instagram asli dengan beberapa modifikasi pa
 - **Icon** — ikon Instagram (love, komentar, home, search, dll)
 
 ## Screenshot
-![Hasil UI 1](screenshot/hasil_ui1.png)
-![Hasil UI 2](screenshot/hasil_ui2.png)
+![Hasil UI 1](./screenshot/hasil_ui1.jpeg)
+![Hasil UI 2](./screenshot/hasil_ui2.jpeg)
 
 ## Wireframe
-![Wireframe](wireframe/instagram_ui.jpg)
+![Wireframe](./wireframe/instagram_ui.png)
 
 ## Kesulitan yang Ditemui
 Beberapa kesulitan yang saya alami selama mengerjakan tugas ini adalah:
